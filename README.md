@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Привет, я Абдурахмон
 
-<!--
-**sultonovabdurahmon/sultonovabdurahmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend разработчик
+🎯 Стремлюсь стать сильным специалистом в веб-разработке
+📍 Таджикистан
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 О себе
+
+* 🎓 Студент-программист
+* 🌱 Сейчас изучаю: HTML, CSS, JavaScript
+* 🎨 Люблю работать с UI/UX и дизайном
+* ⚡ Цель: стать профессиональным frontend разработчиком
+
+---
+
+## 🛠️ Технологии и инструменты
+
+* HTML5
+* CSS3
+* JavaScript (начальный уровень)
+* Git & GitHub
+* VS Code
+
+---
+
+## 📂 Мои проекты
+
+🔹 [Мой первый сайт](https://github.com/sultonovabdurahmon/Jeans)
+🔹 [Landing Page](https://github.com/sultonovabdurahmon/site)
+
+---
+
+## 📫 Связь со мной
+
+* GitHub: https://github.com/твой-username
+* Email: твояпочта@example.com
+
+---
+
+## ⚡ Немного обо мне
+
+Люблю чистый дизайн, минимализм и удобные интерфейсы. Постоянно развиваюсь и изучаю новые технологии.
