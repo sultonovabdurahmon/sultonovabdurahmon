@@ -1,44 +1,47 @@
-# Abdurahmon Sultonov 
+# Abdurahmon Sultonov
 
-💻 Frontend разработчик
-🎯 Стремлюсь стать сильным специалистом в веб-разработке
-📍 Таджикистан
+Frontend Developer | UI/UX Enthusiast
 
----
-
-## 🚀 О себе
-
-* 🎓 Студент-программист
-* 🌱 Сейчас изучаю: HTML, CSS, JavaScript
-* 🎨 Люблю работать с UI/UX и дизайном
-* ⚡ Цель: стать профессиональным frontend разработчиком
+💻 Frontend Developer focused on building clean and user-friendly interfaces
+🎯 Aiming to grow into a highly skilled web development professional
+📍 Tajikistan
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🚀 About Me
+
+* 🎓 Computer Science student
+* 🌱 Currently learning: HTML, CSS, JavaScript
+* 🎨 Passionate about UI/UX design and modern web interfaces
+* ⚡ Goal: to become a professional frontend developer
+
+---
+
+## 🛠️ Technologies & Tools
 
 * HTML5
 * CSS3
-* JavaScript (начальный уровень)
+* JavaScript (Basic)
 * Git & GitHub
-* VS Code
+* Visual Studio Code
 
 ---
 
-## 📂 Мои проекты
+## 📂 Projects
 
-🔹 [Мой первый сайт](https://github.com/sultonovabdurahmon/Jeans)
+🔹 [Jeans Website](https://github.com/sultonovabdurahmon/Jeans)
 🔹 [Landing Page](https://github.com/sultonovabdurahmon/site)
 
 ---
 
-## 📫 Связь со мной
+## 📫 Contact
 
 * GitHub: https://github.com/sultonovabdurahmon
-* Email: sultonovabdurahmon2005@gmail.com
+* Email: [sultonovabdurahmon2005@gmail.com](mailto:sultonovabdurahmon2005@gmail.com)
 
 ---
 
-## ⚡ Немного обо мне
+## ⚡ Additional Information
 
-Люблю чистый дизайн, минимализм и удобные интерфейсы. Постоянно развиваюсь и изучаю новые технологии.
+I am passionate about clean design, minimalism, and intuitive user interfaces.
+Continuously improving my skills and exploring modern web technologies.
