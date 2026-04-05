@@ -1,4 +1,4 @@
-# 👋 Привет, я Абдурахмон
+# Abdurahmon Sultonov 
 
 💻 Frontend разработчик
 🎯 Стремлюсь стать сильным специалистом в веб-разработке
@@ -34,8 +34,8 @@
 
 ## 📫 Связь со мной
 
-* GitHub: https://github.com/твой-username
-* Email: твояпочта@example.com
+* GitHub: https://github.com/sultonovabdurahmon
+* Email: sultonovabdurahmon2005@gmail.com
 
 ---
 
