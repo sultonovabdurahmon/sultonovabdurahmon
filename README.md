@@ -26,7 +26,7 @@ Frontend Developer | UI/UX Enthusiast
 ## 📂 Projects
 
 🔹 [Jeans Website](https://github.com/sultonovabdurahmon/Jeans)
-🔹 [Landing Page](https://github.com/sultonovabdurahmon/site)
+🔹 [Music Website](https://github.com/sultonovabdurahmon/Music)
 
 ---
 
